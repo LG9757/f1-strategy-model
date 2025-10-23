@@ -33,7 +33,7 @@ The model uses data from multiple sources:
 
 ## Running
 
-### Prerequesits
+### Prerequisites
 Have Python 3.10+ installed. Then install the required packages:
 pip install pandas numpy xgboost scikit-learn matplotlib seaborn requests
 
